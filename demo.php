@@ -3,6 +3,6 @@
   <title>1st PHP Page</title>
  </head>
  <body>
-  <?php echo'<p>Hello priya</p>';?>
+  <?php echo'<p>Hello priyanka</p>';?>
  </body>
 </html>
